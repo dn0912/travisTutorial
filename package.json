@@ -1,0 +1,21 @@
+{
+  "name": "travis-tutorial",
+  "version": "1.0.0",
+  "description": "https://github.com/dwyl/learn-travis",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dn0912/travisTutorial.git"
+  },
+  "author": "Duc Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dn0912/travisTutorial/issues"
+  },
+  "homepage": "https://github.com/dn0912/travisTutorial#readme"
+}
